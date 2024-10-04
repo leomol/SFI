@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Sciatic Functional Index Calculation"
+abstract: "Analysis script related to the manuscript Predegenerating Donor Nerve for grafting Using Focused Ultrasound Neurotomy"
+message: If you use this code, please cite the repository.
+type: software
+version: 0.0.1
+date-released: 2023-08-30
+repository-code: https://github.com/leomol/SFI
+authors:
+  - family-names: "Molina"
+    given-names: "Leonardo A."
+    email: "leonardo.molina@ucalgary.ca"
+    affiliation: "University of Calgary"
+    orcid: https://orcid.org/0000-0002-6601-7185
